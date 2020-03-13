@@ -1,0 +1,3 @@
+rootProject.name='JniDemo'
+include ':app'
+include ':jnilibrary'
